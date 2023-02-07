@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
     echo "Hello";
     echo "Hello12";
     echo "Hello13";
@@ -24,4 +25,13 @@
 
     echo "<pre>";
     print_r($users);
+=======
+    class Demo
+    {
+        public function demo_name()
+        {
+            return [];
+        }
+    }
+>>>>>>> dev_new
 ?>
